@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --color-emerald-deep: #0F3D3E;
+  --color-gold: #C9A86A;
+  --color-gold-light: #E8D5B0;
+  --color-cream: #FAF7F2;
+  --color-soft-black: #171717;
+  --color-muted: #8A8178;
+
+  --font-serif: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Be Vietnam Pro', system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: var(--color-cream);
+  color: var(--color-soft-black);
+  -webkit-font-smoothing: antialiased;
+}

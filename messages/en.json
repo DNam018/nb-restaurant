@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "events": "Events",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "book": "Book Event"
+  },
+  "hero": {
+    "title": "Ngoc Bich Wedding & Event",
+    "subtitle": "Where special moments are prepared with care, elegance and perfection.",
+    "primaryCta": "Book Now",
+    "secondaryCta": "Explore Services"
+  },
+  "about": {
+    "badge": "About Us",
+    "title": "An Elegant Space for\nWeddings & Events",
+    "description": "At Ngoc Bich, every celebration is not just an event, but a cherished memory. We provide a sophisticated venue for weddings, engagements, birthdays and corporate events with a formal, warm and professional atmosphere.",
+    "stat1": "Successful Events",
+    "stat2": "Years of Experience",
+    "stat3": "Satisfied Clients",
+    "stat4": "Flexible Packages"
+  },
+  "services": {
+    "badge": "Services",
+    "title": "What Kind of Events\nDo We Host",
+    "learnMore": "Learn More"
+  },
+  "events": {
+    "badge": "Hosted Events",
+    "title": "Memorable\nMoments",
+    "guests": "guests"
+  },
+  "gallery": {
+    "badge": "Gallery",
+    "title": "Our Space\nThrough Every Moment",
+    "tabs": {
+      "all": "All",
+      "wedding": "Wedding",
+      "decoration": "Decoration",
+      "stage": "Stage",
+      "dining": "Dining Space",
+      "events": "Events"
+    }
+  },
+  "why": {
+    "badge": "Why Choose Us",
+    "title": "Why Choose\nNgoc Bich"
+  },
+  "process": {
+    "badge": "Process",
+    "title": "Book Your Event\nin 4 Easy Steps"
+  },
+  "contact": {
+    "badge": "Contact",
+    "title": "Start Planning\nWith Us",
+    "description": "Leave your information and we will contact you for a consultation as soon as possible.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "John Smith",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+84 901 234 567",
+      "eventType": "Event Type",
+      "eventTypePlaceholder": "Select event type",
+      "date": "Expected Date",
+      "guests": "Expected Guests",
+      "guestsPlaceholder": "e.g. 200",
+      "message": "Notes",
+      "messagePlaceholder": "Special requirements, questions...",
+      "submit": "Send Consultation Request",
+      "submitting": "Sending...",
+      "success": "Thank you! We will contact you shortly.",
+      "error": "An error occurred. Please try again."
+    },
+    "eventTypes": {
+      "wedding": "Wedding",
+      "engagement": "Engagement Party",
+      "birthday": "Birthday",
+      "baby": "Baby Shower",
+      "family": "Family Gathering",
+      "corporate": "Corporate Event",
+      "other": "Other"
+    },
+    "info": {
+      "phone": "Hotline",
+      "address": "Address",
+      "hours": "Working Hours",
+      "hoursValue": "7:00 AM - 10:00 PM, Monday - Sunday"
+    },
+    "validation": {
+      "nameRequired": "Please enter your full name",
+      "phoneRequired": "Please enter your phone number",
+      "phoneInvalid": "Invalid phone number",
+      "eventTypeRequired": "Please select an event type"
+    }
+  },
+  "footer": {
+    "tagline": "A wedding and event venue for unforgettable moments.",
+    "links": "Links",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "copyright": "© 2026 Ngoc Bich Wedding & Event. All rights reserved."
+  }
+}

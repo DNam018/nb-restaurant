@@ -1,0 +1,105 @@
+{
+  "nav": {
+    "home": "Trang chủ",
+    "services": "Dịch vụ",
+    "events": "Sự kiện",
+    "gallery": "Thư viện",
+    "contact": "Liên hệ",
+    "book": "Đặt tiệc"
+  },
+  "hero": {
+    "title": "Ngọc Bích Wedding & Event",
+    "subtitle": "Nơi những khoảnh khắc đặc biệt được chuẩn bị bằng sự chỉn chu, tinh tế và trọn vẹn.",
+    "primaryCta": "Đặt tiệc ngay",
+    "secondaryCta": "Khám phá dịch vụ"
+  },
+  "about": {
+    "badge": "Về chúng tôi",
+    "title": "Không gian tiệc cưới\n& sự kiện tinh tế",
+    "description": "Tại Ngọc Bích, mỗi buổi tiệc không chỉ là một sự kiện, mà là một kỷ niệm đáng nhớ. Chúng tôi mang đến không gian tổ chức tiệc cưới, đính hôn, sinh nhật và sự kiện với phong cách trang trọng, ấm cúng và chuyên nghiệp.",
+    "stat1": "Sự kiện thành công",
+    "stat2": "Năm kinh nghiệm",
+    "stat3": "Khách hàng hài lòng",
+    "stat4": "Gói dịch vụ linh hoạt"
+  },
+  "services": {
+    "badge": "Dịch vụ",
+    "title": "Chúng tôi tổ chức\nnhững sự kiện nào",
+    "learnMore": "Tìm hiểu thêm"
+  },
+  "events": {
+    "badge": "Sự kiện đã tổ chức",
+    "title": "Những khoảnh khắc\nđáng nhớ",
+    "guests": "khách"
+  },
+  "gallery": {
+    "badge": "Thư viện",
+    "title": "Không gian\nqua từng khoảnh khắc",
+    "tabs": {
+      "all": "Tất cả",
+      "wedding": "Tiệc cưới",
+      "decoration": "Trang trí",
+      "stage": "Sân khấu",
+      "dining": "Không gian tiệc",
+      "events": "Sự kiện"
+    }
+  },
+  "why": {
+    "badge": "Tại sao chọn chúng tôi",
+    "title": "Vì sao chọn\nNgọc Bích"
+  },
+  "process": {
+    "badge": "Quy trình",
+    "title": "Đặt tiệc\ndễ dàng 4 bước"
+  },
+  "contact": {
+    "badge": "Liên hệ",
+    "title": "Bắt đầu lên kế hoạch\ncùng chúng tôi",
+    "description": "Hãy để lại thông tin và chúng tôi sẽ liên hệ tư vấn trong thời gian sớm nhất.",
+    "form": {
+      "name": "Họ và tên",
+      "namePlaceholder": "Nguyễn Văn A",
+      "phone": "Số điện thoại",
+      "phonePlaceholder": "0392 999 839",
+      "eventType": "Loại sự kiện",
+      "eventTypePlaceholder": "Chọn loại sự kiện",
+      "date": "Ngày dự kiến",
+      "guests": "Số khách dự kiến",
+      "guestsPlaceholder": "Ví dụ: 200",
+      "message": "Ghi chú",
+      "messagePlaceholder": "Yêu cầu đặc biệt, câu hỏi...",
+      "submit": "Gửi yêu cầu tư vấn",
+      "submitting": "Đang gửi...",
+      "success": "Cảm ơn bạn! Chúng tôi sẽ liên hệ sớm.",
+      "error": "Có lỗi xảy ra. Vui lòng thử lại."
+    },
+    "eventTypes": {
+      "wedding": "Tiệc cưới",
+      "engagement": "Lễ đính hôn",
+      "birthday": "Sinh nhật",
+      "baby": "Thôi nôi",
+      "family": "Tiệc gia đình",
+      "corporate": "Sự kiện công ty",
+      "other": "Khác"
+    },
+    "info": {
+      "phone": "Hotline",
+      "address": "Địa chỉ",
+      "hours": "Giờ làm việc",
+      "hoursValue": "7:00 - 22:00, Thứ 2 - Chủ nhật"
+    },
+    "validation": {
+      "nameRequired": "Vui lòng nhập họ và tên",
+      "phoneRequired": "Vui lòng nhập số điện thoại",
+      "phoneInvalid": "Số điện thoại không hợp lệ",
+      "eventTypeRequired": "Vui lòng chọn loại sự kiện"
+    }
+  },
+  "footer": {
+    "tagline": "Không gian tiệc cưới và sự kiện cho những khoảnh khắc đáng nhớ.",
+    "links": "Liên kết",
+    "contact": "Liên hệ",
+    "followUs": "Theo dõi chúng tôi",
+    "copyright": "© 2026 Ngọc Bích Wedding & Event. Bảo lưu mọi quyền."
+  }
+}
