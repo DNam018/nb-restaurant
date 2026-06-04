@@ -2,6 +2,8 @@
 
 Landing page hiện đại cho **Nhà hàng Ngọc Bích** — chuyên tổ chức tiệc cưới, lễ đính hôn, sinh nhật, tiệc gia đình và sự kiện công ty tại Thành phố Đồng Nai.
 
+🌐 **Live demo:** [nhahangngocbich.netlify.app](https://nhahangngocbich.netlify.app/en)
+
 ---
 
 ## Tính năng
